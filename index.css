@@ -114,8 +114,6 @@
 /* highlight colour for heading words */
 .rolling-stack span {
     color: #FFDDA9;
-    /* matches your existing .s-text colour */
-    font-weight: 600;
 }
 
 /* ---------- Heading word animation ---------- */
